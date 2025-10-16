@@ -1,4 +1,4 @@
-💥**Update**: Papers accepted by [ASE 2025 (Direct Acceptance)](https://Conference.researchr.org/track/ase-2025/ase-2025-papers)  and [ICSE 2026 First Cycle](https://Conference.researchr.org/track/icse-2026/icse-2026-research-track) are included in this list!
+💥**Update**: Papers accepted by [ASE 2025 (Major Revision)](https://Conference.researchr.org/track/ase-2025/ase-2025-papers)are included in this list!
 
 # Paper List of SE Conferences
 
@@ -27,6 +27,7 @@ Research papers accepted by {ICSE, FSE, ASE, ISSTA} since 2020.
 | ICSE 2026 | Back to the Basics: Rethinking Issue-Commit Linking with LLM-Assisted Retrieval | Huihui Huang, Ratnadira Widyasari, Ting Zhang, Ivana Clairine Irsan, Jieke Shi, Han Wei Ang, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, Hong Jin Kang, David Lo |
 | ICSE 2026 | Breaking Single-Tester Limits: Multi-Agent LLMs for Multi-User Feature Testing | Sidong Feng, Changhao Du, huaxiao liu, Qingnan Wang, Zhengwei Lv, Mengfei Wang, Chunyang Chen |
 | ICSE 2026 | Breaking Strong Encapsulation: A Comprehensive Study of Java Module Abuse | Yirui He, Yongbo Chen, Jessy Ayala, Yecheng Zhou, Qiran Wang, Joshua Garcia |
+| ICSE 2026 | CoReX: Context-Aware Refinement-Based Slicing for Debugging Regression Failures | Sahar Badihi, Julia Rubin |
 | ICSE 2026 | CombCT: Compiler Testing via Combinatorial Testing | Chuan Luo, Shaoke Cui, Jiahao Yan, Junjie Chen, Chenyao Suo, Wei Wu, Chanjuan Liu, Chunming Hu |
 | ICSE 2026 | ConfLogger: Enhance Systems' Configuration Diagnosability through Configuration Logging | Shiwen Shan, Yintong Huo, Yuxin Su, Zhining Wang, Dan Li, Zibin Zheng |
 | ICSE 2026 | D-BUNDLR: Destructing JavaScript Bundles for Effective Static Analysis | Wenyuan Xu, Alexi Turcotte, Cristian-Alexandru Staicu |
@@ -461,29 +462,65 @@ Research papers accepted by {ICSE, FSE, ASE, ISSTA} since 2020.
 | FSE 2025 | Zero-Shot Cross-Domain Code Search without Fine-Tuning | Keyu Liang, Zhongxin Liu, Chao Liu, Zhiyuan Wan, David Lo, Xiaohu Yang |
 | ASE 2025 | "My productivity is boosted, but ..." Demystifying Users’ Perception on AI Coding Assistants | Yunbo Lyu, Zhou Yang, Jieke Shi, Chang Jianming, Yue Liu, David Lo |
 | ASE 2025 | A Large Scale Study of AI-based Binary Function Similarity Detection Techniques for Security Researchers and Practitioners | Jingyi Shi, Yufeng Chen, Yang Xiao, Yuekang Li, Zhengzi Xu, Sihao Qiu, Chi Zhang, Keyu Qi, Yeting Li, Xingchu Chen, Yanyan Zou, Yang Liu, Wei Huo |
+| ASE 2025 | A Multi-Modality Evaluation of the Reality Gap in Autonomous Driving Systems | Stefano Carlo Lambertenghi, Mirena Flores Valdez, Andrea Stocco |
+| ASE 2025 | ACTaint: Agent-Based Taint Analysis for Access Control Vulnerabilities in Smart Contracts | Huarui Lin, Zhipeng Gao, Jiachi Chen, Xiang Chen, Xiaohu Yang, Lingfeng Bao  |
+| ASE 2025 | ADPerf: Investigating and Testing Performance in Autonomous Driving Systems | Tri Minh-Triet Pham, Diego Elias Costa, Weiyi Shang, Jinqiu Yang |
+| ASE 2025 | AMPLE: Fine-grained File Access Policies for Server Applications | Seyedhamed Ghavamnia, Julien Vanegue |
+| ASE 2025 | APRMCTS: Improving LLM-based Automated Program Repair with Iterative Tree Search | Haichuan Hu, Congqing He, Xiaochen Xie, Hao Zhang, Quanjun Zhang |
 | ASE 2025 | ARG: Testing Query Rewriters via Abstract Rule Guided Fuzzing | Dawei Li, Yuxiao Guo, Qifan Liu, Jie Liang, Zhiyong Wu, Jingzhou Fu, Chi Zhang, Yu Jiang |
+| ASE 2025 | AdaptEval: A Benchmark for Evaluating Large Language Models on Code Snippet Adaptation | Tanghaoran Zhang, Xinjun Mao, Shangwen Wang, Yuxin Zhao, Yao Lu, Jin Zhang, Zhang Zhang, Kang Yang, Yue Yu |
+| ASE 2025 | Advancing Automated Ethical Profiling in SE: a Zero-Shot Evaluation of LLM Reasoning | Patrizio Migliarini, Mashal Afzal Memon, Marco Autili, Paola Inverardi |
+| ASE 2025 | Advancing Binary Code Similarity Detection via Context-Content Fusion and LLM Verification | Chaopeng Dong, Jingdong Guo, Shouguo Yang, Yi Li, Dongliang Fang, Yang Xiao, Yongle Chen, Limin Sun |
+| ASE 2025 | Agentic Specification Generator for Move Programs | Yu Fu, Meng Xu, Taesoo Kim |
+| ASE 2025 | Agents in the Sandbox: End-to-End Crash Bug Reproduction for Minecraft | Eray Yapağcı, Yavuz Alp Sencer Öztürk, Eray Tüzün |
 | ASE 2025 | AlertGuardian: Intelligent Alert Life-Cycle Management for Large-scale Cloud Systems | Guangba  Yu, Genting Mai, Rui Wang, Ruipeng Li, Pengfei Chen, Long Pan, Ruijie Xu |
 | ASE 2025 | Algernon: A Flag-Guided Hybrid Fuzzer for Unlocking Hidden Program Paths | Peng Deng, Lei Zhang, Jingqi Long, Wenzheng Hong, Zhemin Yang, Yuan Zhang, Donglai Zhu, Min Yang |
 | ASE 2025 | AlignCoder: Aligning Retrieval with Target Intent for Repository-Level Code Completion | Tianyue Jiang, Yanli Wang, Yanlin Wang, Daya Guo, Ensheng Shi, Yuchi Ma, Jiachi Chen, Zibin Zheng |
+| ASE 2025 | Aligning LLMs to Fully Utilize the Cross-file Context in Repository-level Code Completion | Jia Li, Hao Zhu, Huanyu Liu, Xianjie Shi, He Zong, Yihong Dong, Kechi Zhang, Siyuan Jiang, Zhi Jin, Ge Li |
 | ASE 2025 | Altered Histories in Version Control System Repositories: Evidence from the Trenches | Solal Rapaport, Laurent Pautet, Samuel Tardieu, Stefano Zacchiroli |
 | ASE 2025 | Amur: Fixing Multi-Resource Leaks Guided by Resource Flow Analysis | Jinyoung Kim, Eunseok Lee |
 | ASE 2025 | An Agent-based Evaluation Framework for Complex Code Generation | Xinchen Wang, Pengfei Gao, Chao Peng, Ruida Hu, Cuiyun Gao |
+| ASE 2025 | An Empirical Study of Knowledge Transfer in AI Pair Programming | Alisa Carla Welter, Niklas Schneider, Tobias Dick, Kallistos Weis, Christof Tinnes, Marvin Wyrich, Sven Apel |
 | ASE 2025 | An Empirical Study of Python Library Migration Using Large Language Models | Mohayeminul Islam, Ajay Jha, May Mahmoud, Ildar Akhmetov, Sarah Nadi |
 | ASE 2025 | An LLM-based multi-agent framework for agile effort estimation | Long Bui, Hoa Khanh Dam, Rashina Hoda |
+| ASE 2025 | AppBDS: LLM-Powered Description Synthesis for Sensitive Behaviors in Mobile Apps | Zichen Liu, Xusheng Xiao |
+| ASE 2025 | Argus: Resilience-Oriented Safety Assurance Framework for End-to-End ADSs | Dingji Wang, You Lu, Bihuan Chen, Shuo Hao, Haowen Jiang, Yifan Tian, Xin Peng |
+| ASE 2025 | AutoFid: Adaptive and Noise-Aware Fidelity Measurement for Quantum Programs via Circuit Graph Analysis | Tingting Li, Ziming Zhao, Jianwei Yin |
+| ASE 2025 | Automated Combinatorial Test Generation for Alloy | Agustín Borda, Germán Regis, Nazareno Aguirre, Marcelo F. Frias, Pablo Ponzio |
+| ASE 2025 | Automated Detection of Web Application Navigation Barriers for Screen Reader Users | Shubhi Jain, Syed Fatiul Huq, Ziyao He, Sam Malek |
 | ASE 2025 | Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing | Konstantinos Kitsios, Marco Castelluccio, Alberto Bacchelli |
-| ASE 2025 | Automated Inline Comment Smell Detection and Repair with Large Language Models | Hatice Kübra Çağlar, Semih Caglar, Eray Tüzün |
+| ASE 2025 | Automated Inline Comment Smell Detection and Repair with Large Language Models | Hatice Kübra Çağlar, Semih Çağlar, Eray Tüzün |
 | ASE 2025 | Automated Insertion of Flushes and Fences for Persistency | Yutong Guo, Weiyu Luo, Brian Demsky |
+| ASE 2025 | Automated Repair of Ambiguous Problem Descriptions for LLM-Based Code Generation | Haoxiang Jia, Robbie Morris, He Ye, Federica Sarro, Sergey Mechtaev |
+| ASE 2025 | Automated Repair of OpenID Connect Programs | Tamjid Al Rahat, Yanju Chen, Yu Feng, Yuan Tian |
+| ASE 2025 | Automatic Fixing of Missing Dependency Errors | Jun Lyu, He Zhang, Lanxin Yang, Yue Li, Chenxing Zhong, Manuel Rigger |
 | ASE 2025 | BCFuzz: Bytecode-Driven Fuzzing for JavaScript Engines | Jiming Wang, Chenggang Wu, Jikai Ren, Yuhao Hu, Yan Kang, Xiaojie Wei, Yuanming Lai, Mengyao Xie, Zhe Wang |
+| ASE 2025 | Backdoors in Code Summarizers: How Bad Is It? | Chenyu Wang, Zhou Yang, Yaniv Harel, David Lo |
 | ASE 2025 | Belief Propagation with Local Structure and Its Applications in Program Analysis | Yiqian Wu, Yifan Chen, Yingfei Xiong, Xin Zhang |
+| ASE 2025 | Better Safe than Sorry: Preventing Policy Violations through Predictive Root-Cause-Analysis for IoT Systems | Michael Norris, Syed Rafiul Hussain, Gang (Gary) Tan |
 | ASE 2025 | Beyond Static GUI Agent: Evolving LLM-based GUI Testing via Dynamic Memory | Mengzhuo Chen, Zhe Liu, Chunyang Chen, Junjie Wang, Yangguang Xue, Boyu Wu, Yuekai Huang, Libin Wu, Qing Wang |
+| ASE 2025 | BinStruct: Binary Structure Recovery Combining Static Analysis and Semantics | Yiran Zhang, Zhengzi Xu, Zhe Lang, CHENGYUE LIU, Yuqiang Sun, Wenbo Guo, Chengwei Liu, Weisong Sun, Yang Liu |
+| ASE 2025 | Breaking the Traffic Barrier: Unveiling Multi-Format of Protocols via Autonomous Program Exploration | Dingzhao Xue, Yibo Qu, Bowen Jiang, Xin Chen , Shuaizong Si , Shichao Lv, Zhiqiang Shi, Limin Sun |
 | ASE 2025 | Bridging Natural Language and Formal Specification - Automated Translation of Software Requirements to LTL via Hierarchical Semantics Decomposition Using LLMs | Zhi Ma, Xin-Cheng Wen, Zhexin Su, Xiao Liang Yu, Cong Tian, Shengchao Qin, Mengfei Yang |
+| ASE 2025 | CROSS2OH: Enabling Seamless Porting of C/C++ Software Libraries to OpenHarmony | Qian Zhang, Li Tsz On, Ying Wang, Li Li, Shing-Chi Cheung |
+| ASE 2025 | CRYPTBARA: Dependency-Guided Detection of Python Cryptographic API Misuses | seogyeong cho, Seungeun Yu, Seunghoon Woo |
+| ASE 2025 | Can Mamba Be Better? An Experimental Evaluation of Mamba in Code Intelligence | Shuo Liu, Jacky Keung, Zhen Yang, Zhenyu Mao, Yicheng Sun |
 | ASE 2025 | Characterizing Multi-Hunk Patches: Divergence, Proximity, and LLM Repair Challenges | Noor Nashid, Daniel Ding, Keheliya Gallaba, Ahmed E. Hassan, Ali Mesbah |
+| ASE 2025 | Characterizing and Repairing Color-Related Accessibility Issues in Android Apps | Jiahao Gu, Huaxun Huang |
 | ASE 2025 | Clarifying Semantics of In-Context Examples for Unit Test Generation | Chen Yang, Lin Yang, Ziqi Wang, Dong Wang, Jianyi Zhou, Junjie Chen |
+| ASE 2025 | CoTune: Co-evolutionary Configuration Tuning | Gangda Xiong, Tao Chen |
 | ASE 2025 | Code-DiTing: Automatic Evaluation of Code Generation without References or Test Cases | Guang Yang, Yu Zhou, Xiang Chen, Wei Zheng, Xing Hu, Xin Zhou, David Lo, Taolue Chen |
 | ASE 2025 | Coding-Fuse: Efficient Fusion of Code Pre‑Trained Models for Classification Tasks | Yu Zhao, Lina Gong, Zhiqiu Huang, Yuchen Jin, Mingqiang Wei |
+| ASE 2025 | CollaborLog: Efficient-Generalizable Log Anomaly Detection via Large-Small Model Collaboration in Software Evolution | Pei Xiao, Chiming Duan, Minghua He, Tong Jia, Yifan Wu, Jing Xu, Gege Gao, Lingzhe Zhang, Weijie Hong, Ying Li, Gang Huang |
+| ASE 2025 | Comprehend, Imitate, and then Update: Unleashing the Power of LLMs in Test Suite Evolution | Tangzhi Xu, Jianhan Liu, Yuan Yao, Cong Li, Feng Xu, Xiaoxing Ma |
+| ASE 2025 | Coverage-Based Harmfulness Testing for LLM Code Transformation | Honghao Tan, Haibo Wang, Diany Pressato, Yisen Xu, Shin Hwei Tan |
 | ASE 2025 | DIFFFIX: Incrementally Fixing AST Diffs via Context and Type Information | Guofeng Zeng, Chang-ai Sun, Kai Gao, Huai Liu |
 | ASE 2025 | DLBENCH: A Comprehensive Benchmark for SQL Translation with Large Language Models | Li Lin, Hongqiao Chen, Qinglin Zhu, Liehang Chen, Linlong Tang, Rongxin Wu |
+| ASE 2025 | DNAFuzz: Descriptor-Aware Fuzzing for USB Drivers | Zhengshu Wang, Peng He, Fuchen Ma, Yuanliang Chen, Shuoshuo Duan, Yiyuan Bai, Yu Jiang |
+| ASE 2025 | DRIFT: Debug-based Trace Inference for Firmware Testing | Changming Liu, Alejandro Mera, Meng Xu, Engin Kirda |
+| ASE 2025 | DebCovDiff: Differential Testing of Coverage Measurement Tools on Real-World Projects | Wentao Zhang, Jinghao Jia, Erkai Yu, Darko Marinov, Tianyin Xu |
 | ASE 2025 | Debun: Detecting Bundled JavaScript Libraries on Web using Property-Order Graphs | Seojin Kim, Sungmin Park, Jihyeok Park |
+| ASE 2025 | DeepExploitor: LLM-Enhanced Automated Exploitation of DeepLink Attack in Hybrid Apps | Zhangyue Zhang, Lei Zhang, Zhibo Zhang, Yongheng Liu, Zhemin Yang, Yuan Zhang, Min Yang |
 | ASE 2025 | Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs | Jian Wang, Xiaofei Xie, Qiang Hu, Shangqing Liu, Jiongchi Yu, Jiaolong Kong, Yi Li |
 | ASE 2025 | Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning | Xin Wang, Zhenhao Li, Zishuo Ding |
 | ASE 2025 | Democratizing the Cryptocurrency Ecosystem by Just-In-Time Transformation of Mining Programs | Wei Liu, Zhenhua Li, Feng Qian, Feiyu Jin, Hao Lin, Yannan Zheng, Bo Xiao, Xiaokang Qin, Tianyin Xu |
@@ -493,82 +530,179 @@ Research papers accepted by {ICSE, FSE, ASE, ISSTA} since 2020.
 | ASE 2025 | Demystifying the Evolution of Neural Networks with BOM Analysis: Insights from a Large-Scale Study of 55,997 GitHub Repositories | xiaoning ren, Yuhang Ye, Xiongfei Wu, Yueming Wu, Yinxing Xue |
 | ASE 2025 | Destabilizing Neurons to Generate Challenging Neural Network Verification Benchmarks | Linhan Li, ThanhVu Nguyen |
 | ASE 2025 | Detecting Semantic Clones of Unseen Functionality | Konstantinos Kitsios, Francesco Sovrano, Earl T. Barr, Alberto Bacchelli |
+| ASE 2025 | Detecting Various DeFi Price Manipulations with LLM Reasoning | Juantao Zhong, Daoyuan Wu, Ye Liu, Maoyi Xie, Yang Liu, Yi Li, Ning Liu |
+| ASE 2025 | Diagnosing Performance Differences in Model Checkers via Runtime-Guided Problem Generation | Yibo Dong, Yicong Xu, Wenjing Deng, Yu Chen, Xiaoyu Zhang, Jianwen Li, Chengyu Zhang, Geguang Pu |
 | ASE 2025 | Diplomatist: What Do Cross-language Dependencies Reflect Software Ecosystem Health? | Fanyi Meng, Ying Wang, Chun Yong Chong, Hai Yu, Zhiliang Zhu |
 | ASE 2025 | Do LLMs Generate Useful Test Oracles? An Empirical Study with an Unbiased Dataset | Davide Molinelli, Luca Di Grazia, Alberto Martin-Lopez, Michael D. Ernst, Mauro Pezze |
 | ASE 2025 | Don't Mess with Bro's Cheese! An Empirical Study of Resource Conflict in Android Multi-window | Chenkai Guo, Huimin Zhao, Tianhong Wang, Naipeng Dong, Qingqing Dong, Jiarui Che, Yaqiong Qiao, Xiangyang Luo, Zheli Liu |
+| ASE 2025 | DrainCode: Stealthy Energy Consumption Attacks on Retrieval-Augmented Code Generation via Context Poisoning | Jiadong Wu, Yanlin Wang, Tianyue Jiang, Mingwei Liu, Jiachi Chen, Chong Wang, Ensheng Shi, Xilin Liu, Yuchi Ma, Hongyu Zhang, Zibin Zheng |
 | ASE 2025 | DualFuzz: Detecting Vulnerability in Wi-Fi NICs through Dual-Directional Fuzzing | Yuanliang Chen, Fuchen Ma, Yanyang Zhao, Yuanyi Li, Yu Jiang |
+| ASE 2025 | EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode | Qian Zhu, Yuxuan Liu, Ziyuan Zhu, Shangqing Liu, Lei Bu |
+| ASE 2025 | EditFusion: Resolving Code Merge Conflicts via Edit Selection | Changxin Wang, Yiming Ma, Lei Xu, Weifeng Zhang |
+| ASE 2025 | Effective Code Membership Inference for Code Completion Models via Adversarial Prompts | Yuan Jiang, Zehao Li, Shan Huang, Christoph Treude, Xiaohong Su, Tiantian Wang |
+| ASE 2025 | Efficient Understanding of Machine Learning Model Mispredictions | Martin Eberlein, Jürgen Cito, Lars Grunske |
 | ASE 2025 | Efficient and Verifiable Proof Logging for MaxSAT Solving | Raoul van Doren, Timos Antonopoulos, Ruzica Piskac |
 | ASE 2025 | EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding | Peiding Wang, Li Zhang, Fang Liu, Yinghao Zhu, Wang Xu, Lin Shi, Xiaoli Lian, Minxiao Li, Bo Shen, Binzhang Fu |
 | ASE 2025 | Enhancing LLM to Decompile Optimized PTX to Readable CUDA for Tensor Programs | Xinyu Sun, Fugen Tang, Yu Zhang, Han Shen, Chengru Song, Di Zhang |
 | ASE 2025 | Enhancing LLMs with Staged Grouping and Dehallucination for Header File Decomposition | Yue Wang, Jiaxuan Sun, Yanzhen Zou, Bing Xie |
+| ASE 2025 | Enhancing LLM’s Ability to Generate More Repository-Aware Unit Tests Through Precise Context Injection | Xin Yin, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang |
+| ASE 2025 | Evaluating and Improving Framework-based Parallel Code Completion with Large Language Models | Ke Liu, Qinglin Wang, Xiang Chen, Guang Yang, YiGui Feng, Gencheng Liu, Jie Liu |
+| ASE 2025 | Evolution-Aware Heuristics for GR(1) Realizability Checking | Dor Ma'ayan, Shahar Maoz, Jan Oliver Ringert |
+| ASE 2025 | Exact Inference for Quantum Circuits: A Testing Oracle for Quantum Software Stacks | Kanguk Lee, Jaemin Hong, Sukyoung Ryu |
 | ASE 2025 | Execution-Aware Program Reduction for WebAssembly via Record and Replay | Doehyun Baek, Daniel Lehmann, Ben L. Titzer, Sukyoung Ryu, Michael Pradel |
 | ASE 2025 | Explainable Fault Localization for Programming Assignments via LLM-Guided Annotation | Fang Liu, Tianze Wang, Li Zhang, Zheyu Yang, Jing Jiang, Zian Sun |
+| ASE 2025 | Exploring Static Taint Analysis in LLMs: A Dynamic Benchmarking Framework for Measurement and Enhancement | Haoran Zhao, Lei Zhang, Keke Lian, Fute Sun, Bofei Chen, Yongheng Liu, Zhiyu Wu, Yuan Zhang, Min Yang |
 | ASE 2025 | FGIT: Fault-Guided Fine-Tuning for Code Generation | Lishui Fan, Zhongxin Liu, Haoye Wang, Lingfeng Bao , Xin Xia, Shanping Li |
+| ASE 2025 | Fact-Aligned and Template-Constrained Static Analyzer Rule Enhancement with LLMs | Zongze Jiang, Ming Wen, Ge Wen, Hai Jin |
+| ASE 2025 | FailMapper: Automated Generation of Unit Tests Guided by Failure Scenarios | ruiqi dong, Zehang Deng, Xiaogang Zhu, Xiaoning Du, Huai Liu, Shaohua Wang, Sheng Wen, Yang Xiang |
+| ASE 2025 | FastCoder: Accelerating Repository-level Code Generation via Efficient Retrieval and Verification | Qianhui Zhao, Li Zhang, Fang Liu, Xiaoli Lian, Meng Qiaoyuanhe, Ziqian Jiao, Zetong Zhou, Jia Li, Lin Shi |
 | ASE 2025 | Faster Runtime Verification during Testing via Feedback-Guided Selective Monitoring | Shinhae Kim, Saikat Dutta, Owolabi Legunsen |
+| ASE 2025 | FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization | Kairan Sun, Zhengzi Xu, Kaixuan Li, Lyuye Zhang, Yuqiang Sun, Liwei Tan, Yang Liu |
 | ASE 2025 | Finding Bugs in MLIR Compiler Infrastructure via Lowering Space Exploration | Jingjing Liang, Shan Huang, Ting Su |
+| ASE 2025 | Finding Bugs in WebAssembly Interface Type Binding Generators | Ethan Stanley, Eric Eide |
 | ASE 2025 | Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment | Jingwen Zhang, Yuhong Nan, Wei Li, Kaiwen Ning, Zewei Lin, Zitong Yao, Yuming Feng, Weizhe Zhang, Zibin Zheng |
+| ASE 2025 | Fixing Broken Graphs: LLM-Powered Automatic Code Optimization for DNN Programs | Haotian Wang, Yicheng Sui, Yudong Xie, Yicong Liu, Yufei Sun, Changqing Shi, Yuzhi Zhang |
+| ASE 2025 | FlakyGuard: Automatically Fixing Flaky Tests at Industry Scale | Chengpeng Li, Farnaz Behrang, August Shi, Peng Liu |
+| ASE 2025 | Forcrat: Automatic I/O API Translation from C to Rust via Origin and Capability Analysis | Jaemin Hong, Sukyoung Ryu |
 | ASE 2025 | From Characters to Structure: Rethinking Real-Time Collaborative Programming Models | Leon Freudenthaler, Bernhard Taufner, Karl M. Göschka |
+| ASE 2025 | From Sparse to Structured: A Diffusion-Enhanced and Feature-Aligned Framework for Coincidental Correctness Detection | Huan Xie, Chunyan Liu, Yan Lei, Zhenyu Wu, Jinping Wang |
+| ASE 2025 | Function Clustering-Based Fuzzing Termination: Toward Smarter Early Stopping | ding liang, Wenzhang Yang, Yinxing Xue |
 | ASE 2025 | GUIFuzz++: Unleashing Grey-box Fuzzing on Desktop Graphical User Interfacing Applications | Dillon Otto, Tanner Rowlett, Stefan Nagy |
 | ASE 2025 | Generating Failure-Based Oracles to Support Testing of Reported Bugs in Android Apps | Jack Johnson, Junayed Mahmud, Oscar Chaparro, Kevin Moran, Mattia Fazzini |
+| ASE 2025 | GlassWing: A Tailored Static Analysis Approach for Flutter Android Apps | Xiangyu Zhang, Yucheng Su, Lingling Fan, Miaoying Cai, Sen Chen |
+| ASE 2025 | HFUZZER: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing | Yukai Zhao, Menghan Wu, Xing Hu, Xin Xia |
 | ASE 2025 | Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study | Han Liu, Daoyuan Wu, Yuqiang Sun, Shuai Wang, Yang Liu |
 | ASE 2025 | Hierarchical Knowledge Injection for Improving LLM-based Program Repair | Ramtin Ehsani, Esteban Parra Rodriguez, Sonia Haiduc, Preetha Chatterjee |
+| ASE 2025 | Hit The Bullseye On The First Shot: Improving LLMs Using Multi-Sample Self-Reward Feedback for Vulnerability Repair | Rui Jiao, Yue Zhang, Jinku Li, Jianfeng Ma |
+| ASE 2025 | How Big is the Automaton? Certified Lower Bounds on the Size of Presburger DFAs | Nicolas Amat, Pierre Ganty, Alessio Mansutti |
+| ASE 2025 | HybridSIMD: A Super C++ SIMD Library with Integrated Auto-tuning Capabilities | Haolin Pan, Xulin Zhou, Mingjie Xing, Yanjun Wu |
+| ASE 2025 | Hypergraph Neural Network-based Multi-Granular Root Cause Localization for Microservice Systems | Yaxiao Li, Lu Wang, Chenxi Zhang, Qingshan Li, Siming Rong, Baiyang Wen, Xuyang Li, Kun Ma, Quanwei Du, KeYang Li, Lingfeng Pan, Xinyue Li, MingXuan Hui |
+| ASE 2025 | IMUFUZZER: Resilience-based Discovery of Signal Injection Attacks on Robotic Aerial Vehicles | Sudharssan Mohan, Kyeongseok Yang, Zelun Kong, Yonghwi Kwon, Junghwan Rhee, Tyler Summers, Hongjun Choi, Heejo Lee, Chung Hwan Kim |
 | ASE 2025 | IMUFUZZER: Resilience-based Discovery of Signal Injection Attacks on Robotic Vehicles | Sudharssan Mohan, Kyeongseok Yang, Zelun Kong, Yonghwi Kwon, Junghwan Rhee, Tyler Summers, Hongjun Choi, Heejo Lee, Chung Hwan Kim |
 | ASE 2025 | Improving LLM-based Log Parsing by Learning from Errors in Reasoning Traces | Wang Jialai, Juncheng Lu, Jie Yang, Junjie Wang, Zeyu Gao, Chao Zhang, Zhenkai Liang, Ee-Chien Chang |
 | ASE 2025 | Improving NLSAT for Nonlinear Real Arithmetic | Zhonghan Wang |
+| ASE 2025 | Incremental Program Analysis in the Wild: An Empirical Study on Real-World Program Changes | Xizao Wang, Xiangrong Bin, Lanxin Huang, Shangqing Liu, Jianhua Zhao, Lei Bu |
 | ASE 2025 | Interaction2Code: Benchmarking MLLM-based Interactive Webpage Code Generation from Interactive Prototyping | Jingyu Xiao, Yuxuan Wan, Yintong Huo, Zixin Wang, Xinyi Xu, Wenxuan Wang, Zhiyao Xu, Yuhang Wang, Michael Lyu |
 | ASE 2025 | Interleaved Learning and Exploration: A Self-Adaptive Fuzz Testing Framework for MLIR | Zeyu Sun, Jingjing Liang, Weiyi Wang, Chenyao Suo, Junjie Chen, Fanjiang Xu |
 | ASE 2025 | Interpretable Vulnerability Detection Reports | Claudia Mamede, Jose Campos, Claire Le Goues, Rui Abreu |
 | ASE 2025 | Issue Localization via LLM-Driven Iterative Code Graph Searching | Zhonghao Jiang, Xiaoxue Ren, Meng Yan, Wei Jiang, Yong Li, Zhongxin Liu |
+| ASE 2025 | It's Not Easy Being Green: On the Energy Efficiency of Programming Languages | Nicolas van Kempen, Hyuk-Je Kwon, Dung Nguyen, Emery D. Berger |
 | ASE 2025 | LAURA: Enhancing Code Review Generation with Context-Enriched Retrieval-Augmented LLM | Yuxin Zhang, Yuxia Zhang, Zeyu Sun, Yanjie Jiang, Hui Liu |
+| ASE 2025 | LLM-Assisted Synthesis of High-Assurance C Programs | Prasita Mukherjee, Minghai Lu, Benjamin Delaware |
+| ASE 2025 | LLM-Based Identification of Null Pointer Exception Patches | Tahir Ullah, Waseem Akram, Fiza Khaliq, Hui Liu |
+| ASE 2025 | LLM-Powered Multi-Agent Collaboration for Intelligent Industrial On-Call Automation | Ruowei Fu, Yang Zhang, Zeyu Che, Xin Wu, Zhenyu Zhong, Zhiqiang Ren, Shenglin Zhang, Feng Wang, Yongqian Sun, Xiaozhou Liu, Kexin Liu, Yu Zhang |
 | ASE 2025 | LLMPort: Cross-file Patch Porting via Task Decomposition and Self-correction | Bofei Chen, Lei Zhang, Peng Deng, Nan Wang, Haoyu Xu, Mingda Guo, Yuan Zhang, Min Yang |
 | ASE 2025 | LOSVER: Line-Level Modifiability Signal-Guided Vulnerability Detection and Classification | Doha Nam, Jongmoon Baik |
+| ASE 2025 | LSPFuzz: Hunting Bugs in Language Servers | Hengcheng Zhu, Songqiang Chen, Valerio Terragni, Lili Wei, Yepang Liu, Jiarong Wu, Shing-Chi Cheung |
+| ASE 2025 | Lares: LLM-driven Code Slice Semantic Search for Patch Presence Testing | Siyuan Li, Yaowen Zheng, Hong Li, Jingdong Guo, Chaopeng Dong, Chunpeng Yan, Weijie Wang, Yimo Ren, Limin Sun, Hongsong Zhu |
 | ASE 2025 | Latra: A Template-Based Language-Agnostic Transformation Framework for Effective Program Reduction | Zhenyang Xu, Yiran Wang, Yongqiang Tian, Mengxiao Zhang, Chengnian Sun |
+| ASE 2025 | Learning Project-wise Subsequent Code Edits via Interleaving Neural-based Induction and Tool-based Deduction | Chenyan Liu, Yun Lin, Yuhuan Huang, Jiaxin Chang, Binhang Qi, Bo Jiang, Zhiyong Huang, Jin Song Dong |
+| ASE 2025 | Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation | Kairan Sun, Zhengzi Xu, Kaixuan Li, Lyuye Zhang, Yebo Feng, Daoyuan Wu, Yang Liu |
 | ASE 2025 | Let the Code Speak: Incorporating Program Dynamic State for Better Method-Level Fault Localization | Yihao Qin, Shangwen Wang, Bo Lin, Xin Peng, Sheng Ouyang, Liqian Chen, Xiaoguang Mao |
+| ASE 2025 | Leveraging Mixture-of-Experts Framework for Smart Contract Vulnerability Repair with Large Language Model | Hang Yuan, Xizhi Hou, Lei Yu, Li Yang, Jiayue Tang, Jiadong Xu, Yifei Liu, Fengjun Zhang, Chun Zuo |
+| ASE 2025 | LineBreaker: Finding Token-Inconsistency Bugs using Large Language Models | Hongbo Chen, Yifan Zhang, Xing Han, Tianhao Mao, Huanyao Rong, Yuheng Zhang, Hang Zhang, XiaoFeng Wang, Luyi Xing, Xun Chen |
+| ASE 2025 | LogAction: Consistent Cross-system Anomaly Detection through Logs via Active Domain Adaptation | Chiming Duan, Minghua He, Pei Xiao, Tong Jia, Xin Zhang, Zhewei Zhong, Xiang Luo, Yan Niu, Lingzhe Zhang, Yifan Wu, Siyu Yu, Weijie Hong, Ying Li, Gang Huang |
 | ASE 2025 | LogMoE: Lightweight Expert Mixture for Cross-System Log Anomaly Detection | Jiaxing Qi, Zhongzhi Luan, Shaohan Huang, Carol Fung, Yuchen Wang, Aibin Wang, Hongyu Zhang, Hailong Yang, Depei Qian |
+| ASE 2025 | LongCodeZip: Compress Long Context for Code Language Models | Yuling Shi, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu |
 | ASE 2025 | Loupe: End-to-End Learning of Loop Unrolling Heuristics for Abstract Interpretation | Maykel Mattar, Michele Alberti, Valentin Perrelle, Salah Sadou |
+| ASE 2025 | MCTS-Refined CoT: High-Quality Fine-Tuning Data for LLM-Based Repository Issue Resolution | Yibo Wang, Zhihao Peng, Ying Wang, Zhao Wei, Hai Yu, Zhiliang Zhu |
+| ASE 2025 | MIMIC: Integrating Diverse Personality Traits for Better Game Testing Using Large Language Model | Yifei Chen, Sarra Habchi, Lili Wei |
 | ASE 2025 | Metamorphic Testing for Audio Content Moderation Software | Wenxuan Wang, Yongjiang Wu, Junyuan Zhang, Shuqing Li, Yun Peng, Wenting Chen, Shuai Wang, Michael Lyu |
+| ASE 2025 | Mixture-of-Experts Low-Rank Adaptation for Multilingual Code Summarization | Tianchen Yu, Li Yuan, Hailin Huang, Jiexin Wang, Yi Cai |
+| ASE 2025 | Mockingbird: Efficient Excessive Data Exposures Detection via Dynamic Code Instrumentation | Chenxiao Xia, Jiazheng Sun, Jun Zheng, Yu-an Tan, Hongyi Su |
 | ASE 2025 | Multi-dimensional Assessment of CrowdSourced Testing Reports via LLMs | Yue Wang, Yuan Zhao, Shengcheng Yu, Zhenyu Chen |
 | ASE 2025 | NATE: A Network-Aware Testing Enhancer for Network-Related Fault Detection in Android Apps | Yuanhong Lan, Shaoheng Cao, Yifei Lu, Minxue Pan, Xuandong Li |
+| ASE 2025 | Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models | Dianshu Liao, Xin Yin, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun |
 | ASE 2025 | Non-termination Witnesses and their Validation | Zsófia Ádám, Paulína Ayaziová, Levente Bajczi, Dirk Beyer, Marek Jankola, Marian Lingsch-Rosenfeld, Jan Strejcek |
 | ASE 2025 | Not Every Patch is an Island: LLM-Enhanced Identification of Multiple Vulnerability Patches | Yi Song, Dongchen Xie, Lin Xu, He Zhang, Chunying Zhou, Xiaoyuan Xie |
 | ASE 2025 | ORFuzz: Fuzzing the "Other Side" of LLM Safety – Testing Over-Refusal | Haonan Zhang, Dongxia Wang, Yi Liu, Kexin Chen, Jiashui Wang, Xinlei Ying, Long Liu, Wenhai Wang |
 | ASE 2025 | On Automating Configuration Dependency Validation via Retrieval-Augmented Generation | Sebastian Simon, Alina Mailach, Johannes Dorn, Norbert Siegmund |
+| ASE 2025 | On the (In)Security of Non-resettable Device Identifiers in Custom Android Systems | Zikan Dong, Liu Wang, Guoai Xu, Haoyu Wang |
+| ASE 2025 | On the Correctness of Software Merge | Akira Mori, Masatomo Hashimoto |
 | ASE 2025 | On the Robustness Evaluation of 3D Obstacle Detection Against Specifications in Autonomous Driving | Tri Minh-Triet Pham, Bo Yang, Jinqiu Yang |
+| ASE 2025 | PALM: Synergizing Program Analysis and LLMs to Enhance Rust Unit Test Coverage | Bei Chu, Yang Feng, Kui Liu, Hange Shi, Zifan Nan, Zhaoqiang Guo, Baowen Xu |
+| ASE 2025 | PAT-Agent: Autoformalization for Model Checking | Xinyue Zuo, Yifan Zhang, Hongshu Wang, Yufan Cai, Zhe Hou, Jing Sun, Jin Song Dong |
+| ASE 2025 | PEACE: Towards Efficient Project-Level Performance Optimization via Hybrid Code Editing | Xiaoxue Ren, Jun Wan, Yun Peng, Zhongxin Liu, Ming Liang, Dajun Chen, Wei Jiang, Yong Li |
+| ASE 2025 | PROMFUZZ: Leveraging LLM-Driven and Bug-Oriented Composite Analysis for Detecting Functional Bugs in Smart Contracts | Xingshuang Lin, Qinge Xie, Binbin Zhao, Yuan Tian, Saman Zonouz, Na Ruan, Jiliang Li, Raheem Beyah, Shouling Ji |
+| ASE 2025 | PoliCond: Condition-Aware Ontology-Driven LLMs for Privacy Policy Analysis | yalin feng, Yifei Lu, Minxue Pan |
 | ASE 2025 | Polyglot: An Extensible Framework to Benchmark Code Translation with LLMs | Marco Vieira, Priyam Ashish Shah, Bhavain Shah, Rrezarta Krasniqi |
 | ASE 2025 | PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation | Zhiyuan Peng, Xin Yin, Zijie Zhou, Chenhao Ying, Chao Ni, Yuan Luo |
 | ASE 2025 | ProfMal: Detecting Malicious NPM Packages by the Synergy between Static and Dynamic Analysis | Yiheng Huang, Wen Zheng, Susheng Wu, Bihuan Chen, You Lu, Zhuotong Zhou, Yiheng Cao, Xiaoyu Li, Xin Peng |
 | ASE 2025 | Profile Coverage: Using Android Compilation Profiles to Evaluate Dynamic Testing | Jakob Bleier, Felix Kehrer, Jürgen Cito, Martina Lindorfer |
 | ASE 2025 | Programmers’ Visual Attention on Function Call Graphs During Code Summarization | Samantha McLoughlin, Zachary Karas, Robert Wallace, Aakash Bansal, Collin McMillan, Yu Huang |
+| ASE 2025 | Propagation-Based Vulnerability Impact Assessment for Software Supply Chains | Bonan Ruan, Zhiwei Lin, Jiahao Liu, Chuqi Zhang, Kaihang Ji, Zhenkai Liang |
+| ASE 2025 | Protecting Source Code Privacy When Hunting Memory Bugs | Jielun Wu, Bing Shui, Hongcheng Fan, Shengxin Wu, Rongxin Wu, Yang Feng, Baowen Xu, Qingkai Shi |
+| ASE 2025 | Provable Fairness Repair for Deep Neural Networks | Jianan Ma, Jingyi Wang, Qi Xuan, Zhen Wang |
+| ASE 2025 | PseudoFix: Refactoring Distorted Structures in Decompiled C Pseudocode | Gangyang Li, Xiuwei Shang, Shaoyin Cheng, junqi zhang, Li Hu, Xu Zhu, Weiming Zhang, Nenghai Yu |
+| ASE 2025 | QuanBench: Benchmarking Quantum Code Generation with Large Language Models | Xiaoyu Guo, Minggu Wang, Jianjun Zhao |
 | ASE 2025 | R3-Bench: Reproducible Real-world Reverse Engineering Dataset for Symbol Recovery | Muzhi Yu, Zhengran Zeng, Wei Ye, Jinan Sun, Xiaolong Bai, Shikun Zhang |
+| ASE 2025 | RELIA: Accelerating Analysis of Cloud Access Control Policies | Dan Wang, Peng Zhang, Zhenrong Gu, Weibo Lin, Shibiao Jiang, Zhu He, Xu Du, Longfei Chen, Jun Li, Xiaohong Guan |
+| ASE 2025 | RFCAudit: AI Agent for Auditing Protocol Implementations Against RFC Specifications | Mingwei Zheng, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang |
+| ASE 2025 | RFCScope: Detecting Logical Ambiguities in Internet Protocol Specifications | Mrigank Pawagi, Lize Shao, Hyeonmin Lee, Yixin Sun, Wenxi Wang |
+| ASE 2025 | RSFuzz: A Robustness-Guided Swarm Fuzzing Framework Based on Behavioral Constraints | Ruoyu Zhou, Zhiwei Zhang, Haocheng Han, Xiaodong Zhang, Zehan Chen, Jun Sun, Yulong Shen, Dehai Xu |
 | ASE 2025 | RealisticCodeBench: Towards More Realistic Evaluation of Large Language Models for Code Generation | Xiao Yu, Haoxuan Chen, Lei Liu, Xing Hu, Jacky Keung, Xin Xia |
 | ASE 2025 | Rechecking Recheck Requests in Continuous Integration: An Empirical Study of OpenStack | Yelizaveta Brus, Rungroj Maipradit, Earl T. Barr, Shane McIntosh |
 | ASE 2025 | Reflective Unit Test Generation for Precise Type Error Detection with Large Language Models | Chen Yang, Ziqi Wang, Yanjie Jiang, Lin Yang, Yuteng Zheng, Jianyi Zhou, Junjie Chen |
+| ASE 2025 | Repairing Leaks in Resource Wrappers | Sanjay Malakar, Martin Kellogg, Michael D. Ernst, Manu Sridharan |
+| ASE 2025 | Risk Estimation in Differential Fuzzing via Extreme Value Theory | Rafael Baez, Alejandro Olivas, Nathan K Diamond, Marcelo F. Frias, Yannic Noller, Saeid Tizpaz-Niari |
 | ASE 2025 | Root Cause Analysis of RISC-V Build Failures via LLM and MCTS Reasoning | Weipeng Shuai, Jie Liu, Zhirou Ma, Liangyi Kang, Zehua Wang, Shuai Wang, Dan Ye, Hui Li, Wei Wang, Jiaxin Zhu |
+| ASE 2025 | RustAssure: Differential Symbolic Testing for LLM-Transpiled C-to-Rust Code | Yubo Bai, Tapti Palit |
+| ASE 2025 | RustRepoTrans: Repository-level Context Code Translation Benchmark Targeting Rust | Guangsheng Ou, Mingwei Liu, Yuxuan Chen, Yanlin Wang, Xin Peng, Zibin Zheng |
 | ASE 2025 | SATORI: Static Test Oracle Generation for REST APIs | Juan C. Alonso, Alberto Martin-Lopez, Sergio Segura, Gabriele Bavota, Antonio Ruiz-Cortés |
+| ASE 2025 | SE-Jury: An LLM-as-Ensemble-Judge Metric for Narrowing the Gap with Human Evaluation in SE | Xin Zhou, Kisub Kim, Ting Zhang, Martin Weyssow, Luis F. Gomes, Guang Yang, Kui Liu, Xin Xia, David Lo |
 | ASE 2025 | SMTgazer: Learning to Schedule SMT Algorithms via Bayesian Optimization | Chuan Luo, Shaoke Cui, Jianping Song, Xindi Zhang, Wei Wu, Chanjuan Liu, Shaowei Cai, Chunming Hu |
+| ASE 2025 | SPEC2CODE: Mapping Software Specification to Function-Level Code Implementation | Yuekun Wang, Lili Quan, Xiaofei Xie, Junjie Wang, Jianjun Chen |
+| ASE 2025 | SPICE : An Automated SWE-Bench Labeling Pipeline for Issue Clarity, Test Coverage, and Effort Estimation | Aaditya Bhatia, Gustavo Oliva, Gopi Krishnan Rajbahadur, Haoxiang Zhang, Yihao Chen, Zhilong Chen, Arthur Leung, Dayi Lin, Boyuan Chen, Ahmed E. Hassan |
+| ASE 2025 | SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking | Zewei Lin, Jiachi Chen, Jingwen Zhang, Zexu Wang, Yuming Feng, Weizhe Zhang, Zibin Zheng |
 | ASE 2025 | SateLight: A Satellite Application Update Framework for Satellite Computing | Jinfeng Wen, Jianshu Zhao, Zixi Zhu, Xiaomin Zhang, Qi Liang, Ao Zhou, Shangguang Wang |
+| ASE 2025 | ScaleCirc: Scaling the Analysis over Circom Circuits | Jinan Jiang, Haoran Qin, Xiapu Luo |
 | ASE 2025 | Security Debt in LLM Agent Applications: A Measurement Study of Vulnerabilities and Mitigation Trade-offs | Zhuoxiang Shen, Jiarun Dai, Yuan Zhang, Min Yang |
 | ASE 2025 | Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Repair | Kai Huang, Jian Zhang, Xiaofei Xie, Chunyang Chen |
+| ASE 2025 | SemGuard: Real-Time Semantic Evaluator for Correcting LLM-Generated Code | Qinglin Wang, Zhihong Sun, Ruyun Wang, Tao Huang, Zhi Jin, Ge Li, Chen Lyu |
+| ASE 2025 | Sifting Truth from Coincidences: A Two-Stage Positive and Unlabeled Learning Model for Coincidental Correctness Detection | Chunyan Liu, Huan Xie, Yan Lei, Zhenyu Wu, Jinping Wang |
 | ASE 2025 | SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation | Zhifan Ye, Jiachi Chen, Zhenzhe Shao, Lingfeng Bao , Xiaohu Yang, Zhongxin Liu |
+| ASE 2025 | Soleker: Uncovering Vulnerabilities in Solana Smart Contracts | Kunsong Zhao, Yunpeng Tian, Zuchao Ma, Xiapu Luo |
 | ASE 2025 | Speculative Automated Refactoring of Imperative Deep Learning Programs to Graph Execution | Raffi Khatchadourian, Tatiana Castro Vélez, Mehdi Bagherzadeh, Nan Jia, Anita Raja |
+| ASE 2025 | Spinner: Detecting Locking Violations in the eBPF Runtime | Priya Govindasamy, Joseph Bursey, Hsin-Wei Hung, Ardalan Amiri Sani |
+| ASE 2025 | State Field Coverage: A Metric for Oracle Quality | Facundo Molina, Nazareno Aguirre, Alessandra Gorla |
+| ASE 2025 | TEPHRA: Principled Discovery of Fuzzer Limitations | Vasil Sarafov, David Markvica, Stefan Brunthaler |
 | ASE 2025 | TensorGuard: Gradient-Based Model Fingerprinting for LLM Similarity Detection and Family Classification | Zehao Wu, Yanjie Zhao, Haoyu Wang |
 | ASE 2025 | Terminator: enabling efficient fuzzing of closed-source GUI programs by automatic coverage-guided termination | Jonas Zabel, Philip Kolvenbach, Steven Arzt |
+| ASE 2025 | The Cost of Downgrading Build Systems: A Case Study of Kubernetes | Gareema Ranjan, Mahmoud Alfadel, Gengyi Sun, Shane McIntosh |
+| ASE 2025 | The Fault in our Stats | Alexi Turcotte, Neev Nirav Mehta |
 | ASE 2025 | Token Sugar: Making Source Code Sweeter for LLMs through Token-Efficient Shorthand | Zhensu Sun, Chengran Yang, Xiaoning Du, Zhou Yang, Li Li, David Lo |
 | ASE 2025 | Towards Generalizable Instruction Vulnerability Prediction via LLM-Enhanced Code Representation | Bao Wen, Jingjing Gu, Jingxuan Zhang, Yang Liu, Pengfei Yu, Yanchao Zhao |
 | ASE 2025 | Towards More Accurate Static Analysis for Taint-style Bug Detection in Linux Kernel | Haonan Li, Hang Zhang, Kexin Pei, Zhiyun Qian |
 | ASE 2025 | Triangle: Empowering Incident Triage with Multi-Agent | Zhaoyang Yu, Aoyang Fang, Minghua Ma, Jaskaran Singh Walia, Chaoyun Zhang, Shu Chi, Ze Li, Murali Chintalapati, Xuchao Zhang, Rujia Wang, Chetan Bansal, Saravan Rajmohan, Qingwei Lin, Shenglin Zhang, Dan Pei, Pinjia He |
 | ASE 2025 | Uncovering Discrimination Clusters: Quantifying and Explaining Systematic Fairness Violations | Ranit Debnath Akash, Ashish Kumar, Verya Monjezi, Ashutosh Trivedi, Gang (Gary) Tan, Saeid Tizpaz-Niari |
-| ASE 2025 | Understanding Resource Injection Vulnerabilities in Kubernetes Ecosystems | Defang Bo, Jie Lu, Feng Li, ChenJingting , Jinchen Wang, Chendong Yu, Yeting Li, Wei Huo |
+| ASE 2025 | Uncovering Prompt Elements: Cloning System Prompts from Behavioral Traces | Yi Qian, Pengfei , Hao Wu, Ligeng Chen, Bing Mao |
+| ASE 2025 | Understanding Feature Request Practice on GitHub via a Large-Scale Empirical Study | Jiajun Li, Wenhua Yang, Minxue Pan, Yu Zhou |
+| ASE 2025 | Understanding Resource Injection Vulnerabilities in Kubernetes Ecosystems | Defang Bo, Jie Lu, Feng Li, Jingting Chen, Jinchen Wang, Chendong Yu, Yeting Li, Wei Huo |
 | ASE 2025 | Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories | Islem BOUZENIA, Michael Pradel |
+| ASE 2025 | Unit Test Update through LLM-Driven Context Collection and Error-Type-Aware Refinement | Yuanhe Zhang, Zhiquan Yang, Shengyi Pan, Zhongxin Liu |
 | ASE 2025 | United We Stand: Towards End-to-End Log-based Fault Diagnosis via Interactive Multi-Task Learning | Minghua He, Chiming Duan, Pei Xiao, Tong Jia, Siyu Yu, Lingzhe Zhang, Weijie Hong, Jing Han, Yifan Wu, Ying Li, Gang Huang |
 | ASE 2025 | Using Active Learning to Train Predictive Mutation Testing with Minimal Data | Miklos Borsi |
+| ASE 2025 | Using Fourier Analysis and Mutant Clustering to Accelerate DNN Mutation Testing | Ali Ghanbari, Sasan Tavakkol |
 | ASE 2025 | VERT: Polyglot Verified Equivalent Rust Transpilation with Large Language Models | Aidan Z.H. Yang, Yoshiki Takashima, Brandon Paulsen, Joey Dodds, Daniel Kroening |
+| ASE 2025 | VRExplorer: A Model-based Approach for Automated Virtual Reality Scene Testing | Zhu Zhengyang, Hong-Ning Dai, Hanyang Guo, Zeqin Liao, Zibin Zheng |
+| ASE 2025 | VRTestSniffer: Test Smell Detector for Virtual Reality (VR) Software Projects | Faraz Gurramkonda, Avishak Chakroborty, Bruce Maxim, Mohamed Wiem Mkaouer, Foyzul Hassan |
+| ASE 2025 | VeriExploit: Automatic Bug Reproduction in Smart Contracts via LLMs and Formal Methods | Chenfeng Wei, Shiyu Cai, Yiannis Charalambous, Tong Wu, Sangharatna Godboley, Lucas C. Cordeiro |
 | ASE 2025 | Vul-R2: A Reasoning LLM for Automated Vulnerability Repair | Xin-Cheng Wen, Zirui Lin, Yijun Yang, Cuiyun Gao, Deheng Ye |
 | ASE 2025 | Vulnerability-Affected Versions Identification: How Far Are We? | Xingchu Chen, Chengwei Liu, Jialun Cao, Yang Xiao, Xinyue Cai, Yeting Li, Jingyi Shi, tianqi sun, Haiming Chen, Wei Huo |
 | ASE 2025 | WEST: Specification-Based Test Generation for WebAssembly | Dongjun Youn, Shin Wonho, Sukyoung Ryu |
+| ASE 2025 | Watson: A Cognitive Observability Framework for the Reasoning of LLM-Powered Agents | Benjamin Rombaut, Sogol Masoumzadeh, Kirill Vasilevski, Dayi Lin, Ahmed E. Hassan |
+| ASE 2025 | What’s DAT Smell? Untangling and Weaving the Disjoint Assertion Tangle Test Smell | Monil Narang, Hang Du, James Jones |
+| ASE 2025 | When AllClose Fails: Round-Off Error Estimation for Deep Learning Programs | Qi Zhan, Xing Hu, Yuanyi Lin, Tongtong Xu, Xin Xia, Shanping Li |
+| ASE 2025 | When Autonomous Vehicle Meets V2X Cooperative Perception: How Far Are We? | An Guo, Shuoxiao Zhang, Enyi Tang, Xinyu Gao, Haomin Pang, Haoxiang Tian, Yanzhou Mu, Wu Wen, Chunrong Fang, Zhenyu Chen |
 | ASE 2025 | When Control Flows Deviate: Directed Grey-box Fuzzing with Probabilistic Reachability Analysis | Peihong Lin, Pengfei Wang, Xu Zhou, Wei Xie, Xin Ren, Kai Lu |
+| ASE 2025 | When Does Wasm Malware Detection Fail? A Systematic Analysis of Their Robustness to Evasion | Taeyoung Kim, Sanghak Oh, Kiho Lee, Weihang Wang, Yonghwi Kwon, Sanghyun Hong, Hyoungshick Kim |
 | ASE 2025 | When Faster Isn't Greener: The Hidden Costs of LLM-Based Code Optimization | Tristan Coignion, Clément Quinton, Romain Rouvoy |
+| ASE 2025 | Which Is Better For Reducing Outdated And Vulnerable Dependencies: Pinning Or Floating? | Imranur Rahman, Jill Marley, William Enck, Laurie Williams |
+| ASE 2025 | Who's to Blame? Rethinking the Brittleness of Automated Web GUI Testing from a Pragmatic Perspective | Haonan Zhang, Kundi Yao, Zishuo Ding, Lizhi Liao, Weiyi Shang |
+| ASE 2025 | Why AI Agents Still Need You: Findings from Developer-Agent Collaborations in the Wild | Aayush Kumar, Yasharth Bajpai, Sumit Gulwani, Gustavo Soares, Emerson Murphy-Hill |
 | ASE 2025 | Why Is My Transaction Risky? Understanding Smart Contract Semantics and Interactions in the NFT Ecosystem | Yujing Chen, Xuanming Liu, Zhiyuan Wan, Zuobin Wang , David Lo, Difan Xie, Xiaohu Yang |
+| ASE 2025 | WingMuzz: Blackbox Testing of IoT Protocols via Two-dimensional Fuzzing Schedule | Xiaogang Zhu, Enze Dai, Xiaotao Feng, Shaohua Wang, Xin Xia, Sheng Wen, Kwok-Yan Lam, Yang Xiang |
+| ASE 2025 | Wired for Reuse: Automating Context-Aware Code Adaptation in IDEs via LLM-Based Agent | Taiming Wang, Yanjie Jiang, Chunhao Dong, Yuxia Zhang, Hui Liu |
 | ASE 2025 | Your Build Scripts Stink: The State of Code Smells in Build Scripts | Mahzabin Tamanna, Yash Chandrani, Matthew Burrows, Brandon Wroblewski, Dominik Wermke, Laurie Williams |
 | ASE 2025 | ZendDiff: Differential Testing of PHP Interpreter | Yuancheng Jiang, Jianing Wang, Qiange Liu, Yeqi Fu, Jian Mao, Roland H. C. Yap, Zhenkai Liang |
 | ASE 2025 | iKnow: an Intent-Guided Chatbot for Cloud Operations with Retrieval-Augmented Generation | Junjie Huang, Yuedong Zhong, Guangba  Yu, Zhihan Jiang, Minzhi Yan, Wenfei Luan, Tianyu Yang, Rui Ren, Michael Lyu |
@@ -1540,7 +1674,7 @@ Research papers accepted by {ICSE, FSE, ASE, ISSTA} since 2020.
 | ICSE 2023 | Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation | Jiamou Sun, Zhenchang Xing, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu, Thong Hoang, Dehai Zhao |
 | ICSE 2023 | SkCoder: A Sketch-based Approach for Automatic Code Generation | Jia Li, Yongmin Li, Ge Li, Zhi Jin, Xing Hu |
 | ICSE 2023 | SmallRace: Static Race Detection for Dynamic Languages - A Case on Smalltalk | Siwei Cui, Yifei Gao, Rainer Unterguggenberger, Wilfried Pichler, Sean Livingstone, Jeff Huang |
-| ICSE 2023 | SmartMark: Software Watermarking Scheme for Smart Contracts | Taeyoung Kim, Yunhee Jang, Chanjong Lee, Hyungjoon Koo, hyoungshick kim |
+| ICSE 2023 | SmartMark: Software Watermarking Scheme for Smart Contracts | Taeyoung Kim, Yunhee Jang, Chanjong Lee, Hyungjoon Koo, Hyoungshick Kim |
 | ICSE 2023 | Socio-Technical Anti-Patterns in Building ML-Enabled Software: Insights from Leaders on the Forefront | Alina Mailach, Norbert Siegmund |
 | ICSE 2023 | Source Code Recommender Systems: The Practitioners' Perspective | Matteo Ciniselli, Luca Pascarella, Emad Aghajani, Simone Scalabrino, Rocco Oliveto, Gabriele Bavota |
 | ICSE 2023 | Strategies, Benefits and Challenges of App Store-inspired Requirements Elicitation | Alessio Ferrari, Paola Spoletini |
@@ -2482,7 +2616,7 @@ Research papers accepted by {ICSE, FSE, ASE, ISSTA} since 2020.
 | ICSE 2021 | Fast Parametric Model Checking through Model Fragmentation | Xinwei Fang, Radu Calinescu, Simos Gerasimou, Faisal Alhwikem |
 | ICSE 2021 | Fast and Precise On-the-fly Patch Validation for All | Lingchao Chen, Yicheng Ouyang, Lingming Zhang |
 | ICSE 2021 | Fault Localization with Code Coverage Representation Learning | Yi Li, Shaohua Wang, Tien N. Nguyen |
-| ICSE 2021 | Fine with ``1234''? An Analysis of SMS One-Time Password Randomness in Android Apps | Siqi Ma, Juanru Li, hyoungshick kim, Elisa Bertino, Surya Nepal, Diet Ostry, Cong Sun |
+| ICSE 2021 | Fine with ``1234''? An Analysis of SMS One-Time Password Randomness in Android Apps | Siqi Ma, Juanru Li, Hyoungshick Kim, Elisa Bertino, Surya Nepal, Diet Ostry, Cong Sun |
 | ICSE 2021 | FlakeFlagger: Predicting Flakiness Without Rerunning Tests | Abdulrahman Alshammari, Christopher Morris, Michael Hilton, Jonathan Bell |
 | ICSE 2021 | Fuzzing Symbolic Expressions | Luca Borzacchiello, Emilio Coppa, Camil Demetrescu |
 | ICSE 2021 | GUIGAN: Learning to Generate GUI Designs Using Generative Adversarial Networks | Tianming Zhao, Chunyang Chen, Yuanning Liu, Xiaodong Zhu |
