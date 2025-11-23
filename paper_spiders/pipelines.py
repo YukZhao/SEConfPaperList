@@ -34,7 +34,7 @@ class PaperToMarkdownPipeline:
 
     def _update_and_sort(self):
         if os.path.exists(self.jsonl_path):
-            with open(self.jsonl_path, "r") as f:
+            with open(self.jsonl_path, "r", encoding="UTF-8") as f:
                 old_content = f.readlines()
             old_content = [orjson.loads(x) for x in old_content]
             self.content = self.content + old_content
@@ -68,7 +68,7 @@ class PaperToMarkdownPipeline:
             ),
         )
 
-        with open(self.jsonl_path, "w") as f:
+        with open(self.jsonl_path, "w", encoding="UTF-8") as f:
             for c in self.content:
                 f.write(orjson.dumps(c).decode("utf-8") + "\n")
 
@@ -85,11 +85,11 @@ class PaperToMarkdownPipeline:
         spider.log("spider close")
         self._update_and_sort()
         md = jsonline2md(self.content, ["conf", "title", "author"])
-        with open(self.md_path, "w") as f:
+        with open(self.md_path, "w", encoding="UTF-8") as f:
             f.write(md)
 
         # update the README.md
-        with open("README.md", "r+") as f:
+        with open("README.md", "r+", encoding="UTF-8") as f:
             readme = f.read()
             start_idx = readme.find("### Papers\n")
             end_idx = readme.find("\n### Acknowledgments\n")
